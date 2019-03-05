@@ -57,6 +57,8 @@ Password: opensourcecms
 - возможность загружать картинки
 - возможность загружать iframe видео с ютуба
 
+![alt text](https://github.com/tmdautov/cms/blob/master/wysiwyg.jpg)
+
 
 ## 2.4 удаление страницы
 
